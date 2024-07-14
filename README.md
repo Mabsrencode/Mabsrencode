@@ -16,7 +16,8 @@ A full-stack developer with a specialization in frontend development.
 </a>
 
 ### Languages and Tools:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="40" height="40">
+<div style="display:flex; justify-content: center; align-items: center; gap: 2px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS3" width="40" height="40">
 <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" width="40" height="40">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-3628954-3030179.png?f=webp&w=256" alt="Node" width="40" height="40">
@@ -34,4 +35,5 @@ A full-stack developer with a specialization in frontend development.
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/figma-1-logo.png" alt="Figma" width="40" height="40">
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" alt="NPM" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="SocketIO" width="40" height="40">
+</div>
 
