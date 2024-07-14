@@ -27,7 +27,7 @@ A full-stack developer with a specialization in frontend development.
 <img src="https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png" alt="React Native" width="40" height="40">
 <img src="https://astro.js.org/astro.png" alt="Astro" width="40" height="40">
 <img src="https://appwrite.io/assets/logomark/logo.png" alt="Appwrite" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="Firebase" width="40" height="40">
+<img src="https://cdn.freebiesupply.com/logos/thumbs/1x/firebase-1-logo.png" alt="Firebase" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="SASS" width="40" height="40">
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="Bootstrap" width="40" height="40">
