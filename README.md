@@ -35,5 +35,6 @@ A full-stack developer with a specialization in frontend development.
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/figma-1-logo.png" alt="Figma" width="40" height="40">
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" alt="NPM" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="SocketIO" width="40" height="40">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="Elixir" width="40" height="40">
 </div>
 
