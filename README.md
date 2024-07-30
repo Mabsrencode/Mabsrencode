@@ -12,7 +12,7 @@ A full-stack developer with a specialization in frontend development.
 
 ### Connect with me:
 <a href="https://www.facebook.com/Reniel.Mababa.28/">
-    <img src="https://freepnglogo.com/images/all_img/1697562496facebook-logo-png.png" alt="Facebook" width="40" height="40">
+    Facebook
 </a>
 
 ### Languages and Tools:
