@@ -36,6 +36,6 @@ A full-stack developer with a specialization in frontend development.
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" alt="NPM" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="SocketIO" width="40" height="40">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="Elixir" width="40" height="40">
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png](https://www.phoenixframework.org/images/phoenix-78c0fd3233522383ea9093ef877c8851.png?vsn=d" alt="Phoenix" width="40" height="40">
+<img src="https://www.google.com/search?q=phoenix+framework&client=opera-gx&sca_esv=341fc45e8ec89d31&sxsrf=ADLYWIJ3kZx9tRE4i0NikCCu2nCofNhExA:1728817156060&udm=2&source=iu&ictx=1&vet=1&fir=d8g-enxtS0t_lM%252CmH2k8Tmk45zntM%252C%252Fg%252F11f61569cr%253BbsPb3XgIIzrvLM%252CtpMVvDWpr6U4IM%252C_%253BgkQyYtzxF5x6SM%252CoEFELS6S2Y0ScM%252C_%253B-kA1LbPzaG8V8M%252CN67BBXrAe6n2wM%252C_%253BSKE2le1wg8oRjM%252C7WtHHQ0CorQEwM%252C_&usg=AI4_-kS0GEbzHNbuXTmJbiCNnJJA5ATXkQ&sa=X&ved=2ahUKEwjNv9_jmYuJAxX90TQHHXgUHg8Q_B16BAg3EAE#vhid=d8g-enxtS0t_lM&vssid=mosaic" alt="Phoenix" width="40" height="40">
 </div>
 
