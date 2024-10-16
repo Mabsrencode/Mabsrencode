@@ -37,5 +37,9 @@ A full-stack developer with a specialization in frontend development.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="SocketIO" width="40" height="40">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="Elixir" width="40" height="40">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS103j34WHFMExOEMGeC3Ynyyy7QjksC33DKQ&s" alt="Phoenix" width="40" height="40">
+<img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Lucidchart_logo_%28September_2021%29.svg/2560px-Lucidchart_logo_%28September_2021%29.svg.png" alt="Lucid Chart" width="40" height="40">
+<img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="Git" width="40" height="40">
+<img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="Gitlab" width="40" height="40">
 </div>
 
