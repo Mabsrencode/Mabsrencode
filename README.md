@@ -41,5 +41,7 @@ A full-stack developer with a specialization in frontend development.
 <img src="https://avatars.slack-edge.com/2022-07-26/3865608556737_8f4ae4a98b36ab6912b3_512.png" alt="Lucid Chart" width="40" height="40">
 <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="Git" width="40" height="40">
 <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="Gitlab" width="40" height="40">
+    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="Gitlab" width="40" height="40">
+    <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-2048x2048-2rhh1z66.png" alt="Gitlab" width="40" height="40">
 </div>
 
