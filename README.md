@@ -10,6 +10,11 @@ A full-stack developer with a specialization in frontend development.
 - 📫 How to reach me [mabsrencode@gmail.com](mailto:mabsrencode@gmail.com)
 - ⚡ Fun fact: Do you sleep?
 
+Currently: **Online**  
+Playing: **Nothing**  
+Coding: **Nothing**  
+Listening to: **Nothing**  
+
 ### Connect with me:
 <a href="https://www.facebook.com/Reniel.Mababa.28/">
     Facebook
