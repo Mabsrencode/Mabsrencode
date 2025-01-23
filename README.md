@@ -1,4 +1,4 @@
-<img src="github-banner.png">
+<img src="banner-github.png">
 
 # Hi 👋, I'm Reniel George Mababa and you can call me REN
 
