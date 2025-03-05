@@ -33,7 +33,7 @@ A full-stack developer with a specialization in frontend development.
 
 <h3 align="left">Databases:</h3>
 <p align="left">
-<img title="title" src="https://skillicons.dev/icons?i=postgres,mongo,sqlite,redis" alt="database">
+<img  src="https://skillicons.dev/icons?i=postgres,mongo,sqlite,redis" alt="database">
 </p>
 
 <h3 align="left">Tools:</h3>
