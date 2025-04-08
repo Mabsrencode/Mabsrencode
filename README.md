@@ -45,12 +45,9 @@ A full-stack developer with a specialization in frontend development.
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mabsrencode) 
 
 
-<div style="display: flex; justify-content: center; align-items:center; width: 100%;">
-    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mabsrencode&show_icons=true&count_private=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabsrencode)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mabsrencode&show_icons=true&count_private=true)  
 
-</div>
 
 
