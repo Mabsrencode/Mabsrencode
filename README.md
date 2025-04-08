@@ -41,4 +41,14 @@ A full-stack developer with a specialization in frontend development.
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,prisma,cloudflare,jest,postman,nodejs,npm,yarn,pnpm,jquery,bash,vscode,figma,threejs,webpack,materialui,shadcn alt="tools">
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mabsrencode)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabsrencode)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mabsrencode&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/mabsrencode)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mabsrencode) 
+
 
