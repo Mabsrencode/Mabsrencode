@@ -45,10 +45,10 @@ A full-stack developer with a specialization in frontend development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabsrencode)](https://github.com/anuraghazra/github-readme-stats)
 
+<div style="display: flex; justify-content: center; align-items:center; width: 100%;">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mabsrencode&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mabsrencode)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mabsrencode) 
+</div>
 
 
