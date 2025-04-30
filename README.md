@@ -26,7 +26,7 @@ A full-stack developer with a specialization in frontend development.
 
 <h3 align="left">Frontend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=next,react,angular,vite,astro,tailwind,bootstrap,phoenix,electron" alt="frontend">
+<img src="https://skillicons.dev/icons?i=next,react,angular,vite,astro,tailwind,bootstrap,electron" alt="frontend">
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
@@ -41,7 +41,7 @@ A full-stack developer with a specialization in frontend development.
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,prisma,cloudflare,jest,postman,nodejs,npm,yarn,pnpm,jquery,bash,vscode,figma,threejs,webpack,materialui,shadcn,gcp,sentry alt="tools">
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,prisma,cloudflare,jest,postman,nodejs,npm,yarn,pnpm,jquery,bash,vscode,figma,threejs,webpack,materialui,gcp,sentry,jquery,redux,vercel,yarn,netlify alt="tools">
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mabsrencode)](https://github.com/ryo-ma/github-profile-trophy)
