@@ -49,7 +49,6 @@ A full-stack developer with a specialization in frontend development.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mabsrencode&show_icons=true&count_private=true) 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mabsrencode&theme=github-compact)
 
 
 
