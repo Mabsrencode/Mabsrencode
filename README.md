@@ -46,9 +46,6 @@ A full-stack developer with a specialization in frontend development.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mabsrencode)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mabsrencode&show_icons=true&count_private=true) 
-
-
 
 
 
