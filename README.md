@@ -41,7 +41,7 @@ A full-stack developer with a specialization in frontend development.
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,prisma,cloudflare" alt="tools">
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,prisma,cloudflare,jest,postman,nodejs,npm,yarn,pnpm,jquery,bash" alt="tools">
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mabsrencode)](https://github.com/ryo-ma/github-profile-trophy)
