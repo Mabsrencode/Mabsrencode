@@ -4,9 +4,7 @@
 
 A full-stack developer with a specialization in frontend development.
 
-- 🔭 I’m currently studying at [Our Lady of Fatima University](https://www.facebook.com/our.lady.of.fatima.university)
-- 🌱 I’m currently learning Elixir Programming Language.
-- 👯 I’m looking to collaborate on making a complex mobile application.
+- 🔭 I graduated at [Our Lady of Fatima University](https://www.facebook.com/our.lady.of.fatima.university)
 - 📫 How to reach me [mabsrencode@gmail.com](mailto:mabsrencode@gmail.com)
 - ⚡ Fun fact: Do you sleep?
 
