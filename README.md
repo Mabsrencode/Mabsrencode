@@ -44,6 +44,10 @@ A full-stack developer with a specialization in frontend development.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mabsrencode)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+  <img src="./github-metrics.svg" alt="Cyberpunk Contribution City" width="100%" />
+</div>
+
 
 
 
