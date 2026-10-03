@@ -2,7 +2,7 @@ name: Generate Contribution City
 
 on:
   schedule:
-    # Run once every 24 hours at midnight UTC
+
     - cron: "0 0 * * *"
   workflow_dispatch: # Allows manual trigger from Actions tab
 
